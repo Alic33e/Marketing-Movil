@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_2/screens/home_screen.dart';
-import 'package:flutter_application_2/screens/register_screen.dart';
+import 'package:MindSpace/screens/home_screen.dart';
+import 'package:MindSpace/screens/register_screen.dart';
 
 class LoginScreen extends StatelessWidget {
   @override
